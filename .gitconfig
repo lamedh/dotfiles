@@ -1,0 +1,7 @@
+[user]
+	name = Lauri Laaksonen
+	email = lhlaaksonen@gmail.com
+[color]
+	ui = true
+[core]
+	editor = vim

@@ -1,0 +1,60 @@
+!BLACK.normal     : color 0 
+URxvt.color0      : #121212
+!BLACK.bright     : color 8
+URxvt.color8      : #0a0a0a
+
+!RED.normal       : color 1 
+URxvt.color1      : #d78787
+!RED.bright       : color 9 
+URxvt.color9      : #df8787
+
+!GREEN.normal     : color 2 
+URxvt.color2      : #afd787
+!GREEN.bright     : color 10
+URxvt.color10     : #afdf87
+
+!YELLOW.normal    : color 3 
+URxvt.color3      : #f7f7af
+!YELLOW.bright    : color 11 
+URxvt.color11     : #ffffaf
+
+!BLUE.normal      : color 4 
+URxvt.color4      : #87afd7
+!BLUE.bright      : color 12 
+URxvt.color12     : #87afdf
+
+!MAGENTA.normal   : color 5 
+URxvt.color5      : #d7afd7
+!MAGENTA.bright   : color 13 
+URxvt.color13     : #dfafdf
+
+!CYAN.normal      : color 6 
+URxvt.color6      : #afd7d7
+!CYAN.bright      : color 14 
+URxvt.color14     : #afdfdf
+
+!WHITE.normal     : color 7 
+URxvt.color7      : #e6e6e6
+!WHITE.bright     : color 15 
+URxvt.color15     : #eeeeee
+
+!background
+URxvt.background  : #070707 
+!foreground
+URxvt.foreground  : #ecedee
+!cursor
+URxvt.cursorColor : #ffaf00
+
+!bold
+Rxvt.colorBD      : #afafdf
+!underline
+URxvt.colorUL     : #dfdfaf
+
+!font
+URxvt.font: xft:Dina:size=10
+Xft*antialias: True
+Xft*dpi: 110
+
+!misc
+URxvt.scrollBar: off
+urxvt*geometry: 80x42
